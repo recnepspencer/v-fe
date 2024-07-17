@@ -1,0 +1,7 @@
+.home-container {
+    @apply flex flex-col items-center justify-center h-screen bg-cover bg-center;
+  }
+  
+  .name {
+    @apply text-white text-5xl font-bold;
+  }
